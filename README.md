@@ -11,3 +11,4 @@ Categories to capture: Conditioners, Hair
      . Original price
      . Product size
   
+![Like This pic](https://github.com/MuhammadMudassirRaza12345/Hair_and_Conditioner_data_scrape/blob/main/Screenshot%20from%202023-08-06%2001-01-23.png)
